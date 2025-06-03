@@ -31,10 +31,6 @@ A virtual IT lab environment built in VirtualBox. Includes Windows 10 installati
 - ![Local Account Password](screenshots/VMPassword.png)  
   *Creating a strong password for the local account.*
 
-### Privacy and Initial Boot
-- ![Privacy Settings](screenshots/VMPrivacySettings.png)  
-  *Selecting privacy settings for the Windows 10 installation.*
-
 - ![First Boot](screenshots/VMFirstBoot.png)  
   *First boot of the Windows 10 desktop environment, showing successful VM setup.*
 
@@ -44,7 +40,5 @@ A virtual IT lab environment built in VirtualBox. Includes Windows 10 installati
 - VirtualBox VM creation and hardware resource allocation.
 - Clean installation of Windows 10 in a virtual environment.
 - Setting up local user accounts for lab usage.
-- Managing privacy and security settings during Windows installation.
 
 ---
-
